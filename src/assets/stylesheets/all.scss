@@ -1,0 +1,21 @@
+//bootstrap
+@import 'bootstrap/scss/functions';
+
+@import 'helpers/variables';
+@import 'bootstrap/scss/variables-dark';
+
+@import 'bootstrap/scss/bootstrap';
+
+// 自定義
+@import 'helpers/main';
+
+// swiper
+@import 'swiper/css';
+@import 'swiper/css/free-mode';
+@import 'swiper/css/pagination';
+@import 'swiper/css/grid';
+@import 'swiper/css/navigation';
+
+// @import 'animate.css/animate.css';
+@import 'aos/dist/aos.css';
+@import 'animate.css';
